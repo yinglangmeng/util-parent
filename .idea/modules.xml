@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/util-excel/util-excel.iml" filepath="$PROJECT_DIR$/util-excel/util-excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-file/util-file.iml" filepath="$PROJECT_DIR$/util-file/util-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-lotterydraw/util-lotterydraw.iml" filepath="$PROJECT_DIR$/util-lotterydraw/util-lotterydraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-parent.iml" filepath="$PROJECT_DIR$/util-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-redis/util-redis.iml" filepath="$PROJECT_DIR$/util-redis/util-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-sequence/util-sequence.iml" filepath="$PROJECT_DIR$/util-sequence/util-sequence.iml" />
+    </modules>
+  </component>
+</project>

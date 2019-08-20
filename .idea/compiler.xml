@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="util-parent" />
+        <module name="util-lotterydraw" />
+        <module name="util-redis" />
+        <module name="util-sequence" />
+        <module name="util-excel" />
+        <module name="util-file" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="util-excel" target="1.8" />
+      <module name="util-file" target="1.8" />
+      <module name="util-lotterydraw" target="1.8" />
+      <module name="util-parent" target="1.8" />
+      <module name="util-redis" target="1.8" />
+      <module name="util-sequence" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="util-excel" options="-parameters" />
+      <module name="util-file" options="-parameters" />
+      <module name="util-lotterydraw" options="-parameters" />
+      <module name="util-parent" options="-parameters" />
+      <module name="util-redis" options="-parameters" />
+      <module name="util-sequence" options="-parameters" />
+    </option>
+  </component>
+</project>
